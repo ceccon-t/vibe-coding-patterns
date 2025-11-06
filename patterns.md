@@ -1,5 +1,6 @@
 # Patterns
 
-## Pattern 01: Steering Hand
+## Pattern 01: Accelerated mockups
 
-## Pattern 02: Accelerated mockups
+## Pattern 02: Steering Hand
+
